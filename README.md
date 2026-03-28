@@ -10,7 +10,7 @@ This project presents a Blinkit Sales Analytics Dashboard built using Power BI. 
 
 | Dashboard                                                    | Details                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Blinkit Dashboard](dashboard-visual/blinkit_dashboard.png) | **Description:** A single-page interactive dashboard providing a complete overview of sales and performance.<br><br>**Key Metrics:** Total Sales, Total Orders, Revenue, Average Order Value, Category-wise Sales.<br><br>**Insights:** Identifies top-performing products, sales trends, and customer behavior patterns to support business growth and decision-making. |
+|  | **Description:** A single-page interactive dashboard providing a complete overview of sales and performance.<br><br>**Key Metrics:** Total Sales, Total Orders, Revenue, Average Order Value, Category-wise Sales.<br><br>**Insights:** Identifies top-performing products, sales trends, and customer behavior patterns to support business growth and decision-making. |
 
 ---
 
@@ -29,8 +29,4 @@ This project demonstrates how data analytics can transform raw sales data into m
 
 ---
 
-## 📬 Contact
 
-* Name: Sudhanshu Singh
-* Email: [Your Email]
-* LinkedIn: [Your LinkedIn]
